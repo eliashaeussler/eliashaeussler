@@ -17,10 +17,10 @@ TYPO3 extensions and Composer libraries.
 
 |     | Package | About | :link: |
 | --- | ------- | ----- | ------ |
-| :bulb: | **[`eliashaeussler/cache-warmup`][7]** | Warms up caches of pages located in XML sitemaps. | [![Version](http://poser.pugx.org/eliashaeussler/cache-warmup/v)][8] [![Downloads](http://poser.pugx.org/eliashaeussler/cache-warmup/downloads)][8] |
-| :package: | **[`eliashaeussler/composer-update-check`][9]** | Detects outdated dependencies in your `composer.lock`, based on the version constraints in your `composer.json`. | [![Version](http://poser.pugx.org/eliashaeussler/composer-update-check/v)][10] [![Downloads](http://poser.pugx.org/eliashaeussler/composer-update-check/downloads)][10] |
-| :mailbox: | **[`eliashaeussler/composer-update-reporter`][11]** | Can be used to automatically report outdated packages to various services. | [![Version](http://poser.pugx.org/eliashaeussler/composer-update-reporter/v)][12] [![Downloads](http://poser.pugx.org/eliashaeussler/composer-update-reporter/downloads)][12] |
-| :computer: | **[`eliashaeussler/cpanel-requests`][13]** | Allows to make API requests to your cPanel installation. | [![Version](http://poser.pugx.org/eliashaeussler/cpanel-requests/v)][14] [![Downloads](http://poser.pugx.org/eliashaeussler/cpanel-requests/downloads)][14] |
+| :bulb: | **[`eliashaeussler/cache-warmup`][7]** | Warms up caches of pages located in XML sitemaps. | [![Version](https://img.shields.io/packagist/v/eliashaeussler/cache-warmup)][8] [![Downloads](https://img.shields.io/packagist/dt/eliashaeussler/cache-warmup)][8] |
+| :package: | **[`eliashaeussler/composer-update-check`][9]** | Detects outdated dependencies in your `composer.lock`, based on the version constraints in your `composer.json`. | [![Version](https://img.shields.io/packagist/v/eliashaeussler/composer-update-check)][10] [![Downloads](https://img.shields.io/packagist/dt/eliashaeussler/composer-update-check)][10] |
+| :mailbox: | **[`eliashaeussler/composer-update-reporter`][11]** | Can be used to automatically report outdated packages to various services. | [![Version](https://img.shields.io/packagist/v/eliashaeussler/composer-update-reporter)][12] [![Downloads](https://img.shields.io/packagist/dt/eliashaeussler/composer-update-reporter)][12] |
+| :computer: | **[`eliashaeussler/cpanel-requests`][13]** | Allows to make API requests to your cPanel installation. | [![Version](https://img.shields.io/packagist/v/eliashaeussler/cpanel-requests)][14] [![Downloads](https://img.shields.io/packagist/dt/eliashaeussler/cpanel-requests)][14] |
 
 [1]: https://github.com/eliashaeussler/typo3-form-consent
 [2]: https://extensions.typo3.org/extension/form_consent
