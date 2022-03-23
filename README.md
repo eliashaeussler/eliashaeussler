@@ -2,9 +2,10 @@
 
 # :v: Welcome
 
-[![Website](https://img.shields.io/badge/website-haeussler.dev-e53e3e)](https://haeussler.dev)
-[![Twitter](https://img.shields.io/badge/twitter-%40elias__haeussler-1da1f2)](https://twitter.com/elias_haeussler)
-[![Packagist](https://img.shields.io/badge/packagist-eliashaeussler-f28d1a)](https://packagist.org/packages/eliashaeussler/)
+[![Twitter](https://img.shields.io/badge/twitter-%40elias__haeussler-1da1f2?logo=twitter)](https://haeussler.dev/twitter)
+[![Packagist](https://img.shields.io/badge/packagist-eliashaeussler-f28d1a?logo=packagist)](https://haeussler.dev/packagist)
+[![Keybase](https://img.shields.io/badge/keybase-eliashaeussler-4c8eff?logo=keybase)](https://haeussler.dev/keybase)
+[![GPG](https://img.shields.io/badge/gpg-0x34E6817D-0093dd)](https://haeussler.dev/gpg)
 
 I'm Elias, web developer from Berlin (Germany). Glad you found your way here :slightly_smiling_face:\
 I develop websites at
