@@ -7,9 +7,11 @@
 [![Twitter](https://img.shields.io/badge/twitter-%40elias__haeussler-1da1f2)](https://twitter.com/elias_haeussler)
 [![Packagist](https://img.shields.io/badge/packagist-eliashaeussler-f28d1a)](https://packagist.org/packages/eliashaeussler/)
 
-I'm Elias, web developer from Berlin (Germany). Glad you found your way here
-where you can find a lot of my public programming projects. Among them are mainly
-TYPO3 extensions and Composer packages. You can also find me on [Twitter][TW].
+I'm Elias, web developer from Berlin (Germany). Glad you found your way here :slightly_smiling_face:\
+I develop websites at
+[coding. powerful. systems. CPS GmbH](https://github.com/CPS-IT) and support various
+open source projects.\
+Here you can find a lot of my public programming projects.
 
 ## :orange_heart: All about TYPO3
 
@@ -29,8 +31,6 @@ TYPO3 extensions and Composer packages. You can also find me on [Twitter][TW].
 * [`eliashaeussler/composer-update-check`][CP-2] – _Detects outdated dependencies in your `composer.lock`._
 * [`eliashaeussler/composer-update-reporter`][CP-3] – _Can be used to automatically report outdated packages to various services._
 * [`eliashaeussler/cpanel-requests`][CP-4] – _Allows to make API requests to your cPanel installation._
-
-[TW]: https://twitter.com/elias_haeussler
 
 [T3-1]: https://github.com/eliashaeussler/typo3-form-consent
 [T3-2]: https://github.com/CPS-IT/handlebars
