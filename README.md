@@ -2,7 +2,6 @@
 
 # :v: Welcome
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 [![Website](https://img.shields.io/badge/website-haeussler.dev-e53e3e)](https://haeussler.dev)
 [![Twitter](https://img.shields.io/badge/twitter-%40elias__haeussler-1da1f2)](https://twitter.com/elias_haeussler)
 [![Packagist](https://img.shields.io/badge/packagist-eliashaeussler-f28d1a)](https://packagist.org/packages/eliashaeussler/)
