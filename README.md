@@ -25,7 +25,7 @@ Here you can find a lot of my public programming projects.
 
 * [TYPO3 Badges][T3-4] – _Provides endpoints for beautiful TYPO3 badges._
 
-## :hammer_and_wrench: Composer packages
+## :elephant: Composer packages
 
 * [`eliashaeussler/cache-warmup`][CP-1] – _Warms up caches of pages located in XML sitemaps._
 * [`eliashaeussler/composer-update-check`][CP-2] – _Detects outdated dependencies in your `composer.lock`._
