@@ -32,6 +32,10 @@ Here you can find a lot of my public programming projects.
 * [`eliashaeussler/composer-update-reporter`][CP-3] – _Can be used to automatically report outdated packages to various services._
 * [`eliashaeussler/cpanel-requests`][CP-4] – _Allows to make API requests to your cPanel installation._
 
+## Contributions
+
+![GitHub contribution animation](https://raw.githubusercontent.com/eliashaeussler/eliashaeussler/badge/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![GitHub contribution animation](https://raw.githubusercontent.com/eliashaeussler/eliashaeussler/badge/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 [T3-1]: https://github.com/eliashaeussler/typo3-form-consent
 [T3-2]: https://github.com/CPS-IT/handlebars
 [T3-3]: https://github.com/eliashaeussler/typo3-warming
