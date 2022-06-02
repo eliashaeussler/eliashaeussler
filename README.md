@@ -29,7 +29,7 @@ Here you can find a lot of my public programming projects.
 
 * [`eliashaeussler/cache-warmup`][CP-1] – _Warms up caches of pages located in XML sitemaps._
 * [`eliashaeussler/composer-update-check`][CP-2] – _Detects outdated dependencies in your `composer.lock`._
-* [`eliashaeussler/composer-update-reporter`][CP-3] – _Can be used to automatically report outdated packages to various services._
+* [`eliashaeussler/composer-update-reporter`][CP-3] – _Can be used to automatically report outdated packages to various external services._
 * [`eliashaeussler/cpanel-requests`][CP-4] – _Allows to make API requests to your cPanel installation._
 
 ## :man_technologist: Contributions
