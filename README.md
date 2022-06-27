@@ -13,7 +13,7 @@ I develop websites at
 open source projects.\
 Here you can find a lot of my public programming projects.
 
-## :orange_heart: All about TYPO3
+## :orange_heart: TYPO3 projects
 
 ### Extensions
 
@@ -21,12 +21,13 @@ Here you can find a lot of my public programming projects.
 * [`EXT:handlebars`][T3-2] – _Provides an entire rendering environment for Handlebars templates._
 * [`EXT:warming`][T3-3] – _Warms up Frontend caches based on an XML sitemap._
 
-### Projects
+### Services
 
 * [TYPO3 Badges][T3-4] – _API with JSON endpoints for beautiful TYPO3 badges._
 
 ## :elephant: Composer packages
 
+* [`cpsit/project-builder`][CP-5] – _Can be used to create new projects from template repositories._
 * [`eliashaeussler/cache-warmup`][CP-1] – _Warms up caches of pages located in XML sitemaps._
 * [`eliashaeussler/composer-update-check`][CP-2] – _Detects outdated dependencies in your `composer.lock`._
 * [`eliashaeussler/composer-update-reporter`][CP-3] – _Can be used to automatically report outdated packages to various external services._
@@ -44,3 +45,4 @@ Here you can find a lot of my public programming projects.
 [CP-2]: https://github.com/eliashaeussler/composer-update-check
 [CP-3]: https://github.com/eliashaeussler/composer-update-reporter
 [CP-4]: https://github.com/eliashaeussler/cpanel-requests
+[CP-5]: https://github.com/CPS-IT/project-builder
