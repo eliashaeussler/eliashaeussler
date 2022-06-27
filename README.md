@@ -23,7 +23,7 @@ Here you can find a lot of my public programming projects.
 
 ### Projects
 
-* [TYPO3 Badges][T3-4] – _Provides endpoints for beautiful TYPO3 badges._
+* [TYPO3 Badges][T3-4] – _API with JSON endpoints for beautiful TYPO3 badges._
 
 ## :elephant: Composer packages
 
