@@ -27,6 +27,7 @@ Here you can find a lot of my public programming projects.
 
 ## :elephant: Composer packages
 
+* [`cpsit/frontend-asset-handler`][CP-6] – _Download and extract Frontend assets in Composer projects._
 * [`cpsit/project-builder`][CP-5] – _Can be used to create new projects from template repositories._
 * [`eliashaeussler/cache-warmup`][CP-1] – _Warms up caches of pages located in XML sitemaps._
 * [`eliashaeussler/composer-update-check`][CP-2] – _Detects outdated dependencies in your `composer.lock`._
@@ -46,3 +47,4 @@ Here you can find a lot of my public programming projects.
 [CP-3]: https://github.com/eliashaeussler/composer-update-reporter
 [CP-4]: https://github.com/eliashaeussler/cpanel-requests
 [CP-5]: https://github.com/CPS-IT/project-builder
+[CP-6]: https://github.com/CPS-IT/frontend-asset-handler
