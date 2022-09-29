@@ -8,10 +8,7 @@
 [![GPG](https://img.shields.io/badge/gpg-0x34E6817D-0093dd)](https://haeussler.dev/gpg)
 
 I'm Elias, web developer from Berlin (Germany). Glad you found your way here :slightly_smiling_face:\
-I develop websites at
-[coding. powerful. systems. CPS GmbH](https://github.com/CPS-IT) and support various
-open source projects.\
-Here you can find a lot of my public programming projects.
+Here you can find some open source projects I'm currently working on.
 
 ## :orange_heart: TYPO3 projects
 
