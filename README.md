@@ -24,11 +24,11 @@ Here you can find some open source projects I'm currently working on.
 
 ## :elephant: Composer packages
 
-* [`cpsit/frontend-asset-handler`][CP-6] – _Download and extract Frontend assets in Composer projects._
-* [`cpsit/project-builder`][CP-5] – _Can be used to create new projects from template repositories._
+* [`cpsit/frontend-asset-handler`][CP-6] – _Downloads and extracts Frontend assets in Composer projects._
+* [`cpsit/project-builder`][CP-5] – _Creates new projects from various template repositories._
 * [`eliashaeussler/cache-warmup`][CP-1] – _Warms up caches of pages located in XML sitemaps._
 * [`eliashaeussler/composer-update-check`][CP-2] – _Detects outdated dependencies in your `composer.lock`._
-* [`eliashaeussler/composer-update-reporter`][CP-3] – _Can be used to automatically report outdated packages to various external services._
+* [`eliashaeussler/composer-update-reporter`][CP-3] – _Automatically reports outdated packages to various external services._
 * [`eliashaeussler/cpanel-requests`][CP-4] – _Allows to make API requests to your cPanel installation._
 
 ## :man_technologist: Contributions
