@@ -1,47 +1,60 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[![Elias Haeussler, web developer from Berlin (Germany)](img/header-main.png)][WEB]
 
-# :v: Welcome
+Hi :wave:, I'm [Elias Häußler][WEB], web developer from Berlin
+with a focus on PHP development, especially for the [TYPO3 CMS][TYPO3].
+I love open source, which is why you can find most of my current projects on my profile.
+In case you like my work and find it worthy of support, I am always happy about a
+[sponsorship][SPONSOR]. Thanks!
 
-[![Twitter](https://img.shields.io/badge/twitter-%40elias__haeussler-1da1f2?logo=twitter)](https://haeussler.dev/twitter)
-[![Packagist](https://img.shields.io/badge/packagist-eliashaeussler-f28d1a?logo=packagist)](https://haeussler.dev/packagist)
-[![Keybase](https://img.shields.io/badge/keybase-eliashaeussler-4c8eff?logo=keybase)](https://haeussler.dev/keybase)
-[![GPG](https://img.shields.io/badge/gpg-0x34E6817D-0093dd)](https://haeussler.dev/gpg)
+If you want to contact me, feel free to reach out on [Twitter][TWITTER]
+or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 
-I'm Elias, web developer from Berlin (Germany). Glad you found your way here :slightly_smiling_face:\
-Here you can find some open source projects I'm currently working on.
+---
 
-## :orange_heart: TYPO3 projects
+[![Projects around TYPO3 CMS](img/header-typo3.png)][REPOS_TYPO3]
 
-### Extensions
+**Extensions**
 
-* [`EXT:form_consent`][T3-1] – _Adds double opt-in functionality to EXT:form._
-* [`EXT:handlebars`][T3-2] – _Provides an entire rendering environment for Handlebars templates._
-* [`EXT:warming`][T3-3] – _Warms up Frontend caches based on an XML sitemap._
+* [`EXT:form_consent`][EXT_FORM_CONSENT] – _Adds double opt-in functionality to EXT:form._
+* [`EXT:handlebars`][EXT_HANDLEBARS] – _Provides an entire rendering environment for Handlebars templates._
+* [`EXT:warming`][EXT_WARMING] – _Warms up Frontend caches based on an XML sitemap._
 
-### Services
+**Services**
 
-* [TYPO3 Badges][T3-4] – _API with JSON endpoints for beautiful TYPO3 badges._
+* [TYPO3 Badges][TYPO3_BADGES] – _API with JSON endpoints for beautiful TYPO3 badges._
 
-## :elephant: Composer packages
+---
 
-* [`cpsit/frontend-asset-handler`][CP-6] – _Downloads and extracts Frontend assets in Composer projects._
-* [`cpsit/project-builder`][CP-5] – _Creates new projects from various template repositories._
-* [`eliashaeussler/cache-warmup`][CP-1] – _Warms up caches of pages located in XML sitemaps._
-* [`eliashaeussler/composer-update-check`][CP-2] – _Detects outdated dependencies in your `composer.lock`._
-* [`eliashaeussler/composer-update-reporter`][CP-3] – _Automatically reports outdated packages to various external services._
-* [`eliashaeussler/cpanel-requests`][CP-4] – _Allows to make API requests to your cPanel installation._
+[![Composer packages](img/header-composer.png)][REPOS_PHP]
 
-## :man_technologist: Contributions
+* [`cpsit/frontend-asset-handler`][FAH] – _Downloads and extracts Frontend assets in Composer projects._
+* [`cpsit/project-builder`][PROJECT_BUILDER] – _Creates new projects from various template repositories._
+* [`eliashaeussler/cache-warmup`][CACHE_WARMUP] – _Warms up caches of pages located in XML sitemaps._
+* [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
+* [`eliashaeussler/composer-update-reporter`][UPDATE_REPORTER] – _Automatically reports outdated packages to various external services._
+* [`eliashaeussler/cpanel-requests`][CPANEL_REQUESTS] – _Allows to make API requests to your cPanel installation._
+
+---
 
 ![GitHub contribution animation](https://raw.githubusercontent.com/eliashaeussler/eliashaeussler/badge/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![GitHub contribution animation](https://raw.githubusercontent.com/eliashaeussler/eliashaeussler/badge/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-[T3-1]: https://github.com/eliashaeussler/typo3-form-consent
-[T3-2]: https://github.com/CPS-IT/handlebars
-[T3-3]: https://github.com/eliashaeussler/typo3-warming
-[T3-4]: https://github.com/eliashaeussler/typo3-badges
-[CP-1]: https://github.com/eliashaeussler/cache-warmup
-[CP-2]: https://github.com/eliashaeussler/composer-update-check
-[CP-3]: https://github.com/eliashaeussler/composer-update-reporter
-[CP-4]: https://github.com/eliashaeussler/cpanel-requests
-[CP-5]: https://github.com/CPS-IT/project-builder
-[CP-6]: https://github.com/CPS-IT/frontend-asset-handler
+
+
+[CACHE_WARMUP]: https://github.com/eliashaeussler/cache-warmup
+[CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
+[EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
+[EXT_HANDLEBARS]: https://github.com/CPS-IT/handlebars
+[EXT_WARMING]: https://github.com/eliashaeussler/typo3-warming
+[FAH]: https://github.com/CPS-IT/frontend-asset-handler
+[GPG]: https://haeussler.dev/gpg
+[MAIL]: https://haeussler.dev/mail
+[PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
+[REPOS_PHP]: https://github.com/eliashaeussler?tab=repositories&language=php
+[REPOS_TYPO3]: https://github.com/eliashaeussler?tab=repositories&q=topic%3Atypo3
+[SPONSOR]: https://github.com/sponsors/eliashaeussler
+[TWITTER]: https://haeussler.dev/twitter
+[TYPO3]: https://github.com/typo3/typo3
+[TYPO3_BADGES]: https://github.com/eliashaeussler/typo3-badges
+[UPDATE_CHECK]: https://github.com/eliashaeussler/composer-update-check
+[UPDATE_REPORTER]: https://github.com/eliashaeussler/composer-update-reporter
+[WEB]: https://haeussler.dev
