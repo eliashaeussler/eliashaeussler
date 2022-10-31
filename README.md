@@ -6,7 +6,7 @@ I love open source, which is why you can find most of my current projects on my 
 In case you like my work and find it worthy of support, I am always happy about a
 [sponsorship][SPONSOR]. Thanks!
 
-If you want to contact me, feel free to reach out on [Twitter][TWITTER]
+If you want to contact me, feel free to reach out on [Twitter][TWITTER] or [Mastodon][MASTODON]
 or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 
 ---
@@ -48,6 +48,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 [FAH]: https://github.com/CPS-IT/frontend-asset-handler
 [GPG]: https://haeussler.dev/gpg
 [MAIL]: https://haeussler.dev/mail
+[MASTODON]: https://haeussler.dev/mastodon
 [PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
 [REPOS_PHP]: https://github.com/eliashaeussler?tab=repositories&language=php
 [REPOS_TYPO3]: https://github.com/eliashaeussler?tab=repositories&q=topic%3Atypo3
