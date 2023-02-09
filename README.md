@@ -17,6 +17,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 
 * [`EXT:form_consent`][EXT_FORM_CONSENT] – _Adds double opt-in functionality to EXT:form._
 * [`EXT:handlebars`][EXT_HANDLEBARS] – _Provides an entire rendering environment for Handlebars templates._
+* [`EXT:solver`][EXT_SOLVER] – _Extends TYPO3's exception handling with AI generated solutions._
 * [`EXT:warming`][EXT_WARMING] – _Warms up Frontend caches based on an XML sitemap._
 
 **Services**
@@ -44,6 +45,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 [CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
 [EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
 [EXT_HANDLEBARS]: https://github.com/CPS-IT/handlebars
+[EXT_SOLVER]: https://github.com/eliashaeussler/typo3-solver
 [EXT_WARMING]: https://github.com/eliashaeussler/typo3-warming
 [FAH]: https://github.com/CPS-IT/frontend-asset-handler
 [GPG]: https://haeussler.dev/gpg
