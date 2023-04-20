@@ -52,7 +52,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 [MAIL]: https://haeussler.dev/mail
 [MASTODON]: https://haeussler.dev/mastodon
 [PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
-[REPOS_PHP]: https://github.com/eliashaeussler?tab=repositories&language=php
+[REPOS_PHP]: https://github.com/eliashaeussler?tab=repositories&language=php&type=source
 [REPOS_TYPO3]: https://github.com/eliashaeussler?tab=repositories&q=topic%3Atypo3
 [SPONSOR]: https://github.com/sponsors/eliashaeussler
 [TWITTER]: https://haeussler.dev/twitter
