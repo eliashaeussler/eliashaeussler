@@ -29,6 +29,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 [![Composer packages](img/header-composer.png)][REPOS_PHP]
 
 * [`cpsit/frontend-asset-handler`][FAH] – _Downloads and extracts Frontend assets in Composer projects._
+* [`cpsit/migrator`][MIGRATOR] – _Performs migrations of files using three-way merge._
 * [`cpsit/project-builder`][PROJECT_BUILDER] – _Creates new projects from various template repositories._
 * [`eliashaeussler/cache-warmup`][CACHE_WARMUP] – _Warms up caches of pages located in XML sitemaps._
 * [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
@@ -51,6 +52,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 [GPG]: https://haeussler.dev/gpg
 [MAIL]: https://haeussler.dev/mail
 [MASTODON]: https://haeussler.dev/mastodon
+[MIGRATOR]: https://github.com/CPS-IT/migrator
 [PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
 [REPOS_PHP]: https://github.com/eliashaeussler?tab=repositories&language=php&type=source
 [REPOS_TYPO3]: https://github.com/eliashaeussler?tab=repositories&q=topic%3Atypo3
