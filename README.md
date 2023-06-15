@@ -35,6 +35,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 * [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
 * [`eliashaeussler/composer-update-reporter`][UPDATE_REPORTER] – _Automatically reports outdated packages to various external services._
 * [`eliashaeussler/cpanel-requests`][CPANEL_REQUESTS] – _Allows to make API requests to your cPanel installation._
+* [`eliashaeussler/sse`][SSE] – _Provides a server implementation of Server-Sent Events._
 
 ---
 
@@ -57,6 +58,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 [REPOS_PHP]: https://github.com/eliashaeussler?tab=repositories&language=php&type=source
 [REPOS_TYPO3]: https://github.com/eliashaeussler?tab=repositories&q=topic%3Atypo3
 [SPONSOR]: https://github.com/sponsors/eliashaeussler
+[SSE]: https://github.com/eliashaeussler/sse
 [TWITTER]: https://haeussler.dev/twitter
 [TYPO3]: https://github.com/typo3/typo3
 [TYPO3_BADGES]: https://github.com/eliashaeussler/typo3-badges
