@@ -22,7 +22,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 
 **Services**
 
-* [TYPO3 Badges][TYPO3_BADGES] – _API with JSON endpoints for beautiful TYPO3 badges._
+* [TYPO3 Badges][TYPO3_BADGES] – _API with JSON and SVG endpoints for beautiful TYPO3 badges._
 
 ---
 
