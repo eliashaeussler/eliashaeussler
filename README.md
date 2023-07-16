@@ -1,6 +1,6 @@
 [![Elias Haeussler, web developer from Berlin (Germany)](img/header-main.png)][WEB]
 
-Hi 👋, I'm [Elias Häußler][WEB], web developer from Berlin 🇩🇪
+Hi 👋, I'm [Elias Häußler][WEB], web developer from Berlin
 with a focus on PHP development, especially for the [TYPO3 CMS][TYPO3].
 I love open source, which is why you can find most of my current projects on my profile.
 In case you like my work and find it worthy of support, I am always happy about a
@@ -19,6 +19,10 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 * [`EXT:handlebars`][EXT_HANDLEBARS] – _Provides an entire rendering environment for Handlebars templates._
 * [`EXT:solver`][EXT_SOLVER] – _Extends TYPO3's exception handling with AI generated solutions._
 * [`EXT:warming`][EXT_WARMING] – _Warms up Frontend caches based on an XML sitemap._
+
+**Libraries**
+
+* [`eliashaeussler/typo3-codeception-helper`][CODECEPTION_HELPER] – _Provides helper functions for Codeception tests._
 
 **Services**
 
@@ -44,6 +48,7 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 
 
 [CACHE_WARMUP]: https://github.com/eliashaeussler/cache-warmup
+[CODECEPTION_HELPER]: https://github.com/eliashaeussler/typo3-codeception-helper
 [CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
 [EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
 [EXT_HANDLEBARS]: https://github.com/CPS-IT/handlebars
