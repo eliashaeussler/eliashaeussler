@@ -1,4 +1,4 @@
-[![Elias Haeussler, web developer from Berlin (Germany)](img/header-main.png)][WEB]
+[![Elias Haeussler, web developer from Berlin (Germany)](img/header-main.svg)][WEB]
 
 Hi 👋, I'm [Elias Häußler][WEB], web developer from Berlin
 with a focus on PHP development, especially for the [TYPO3 CMS][TYPO3].
