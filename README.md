@@ -40,10 +40,6 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 * [`eliashaeussler/cpanel-requests`][CPANEL_REQUESTS] – _Allows to make API requests to your cPanel installation._
 * [`eliashaeussler/sse`][SSE] – _Provides a server implementation of Server-Sent Events._
 
----
-
-![GitHub contribution animation](https://raw.githubusercontent.com/eliashaeussler/eliashaeussler/badge/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![GitHub contribution animation](https://raw.githubusercontent.com/eliashaeussler/eliashaeussler/badge/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 
 
 [CACHE_WARMUP]: https://github.com/eliashaeussler/cache-warmup
