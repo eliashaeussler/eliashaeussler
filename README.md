@@ -1,6 +1,6 @@
-[![Elias Haeussler, web developer from Berlin (Germany)](img/header-main.png)][WEB]
+[![Elias Haeussler, web developer from Münster (Germany)](img/header-main.png)][WEB]
 
-Hi 👋, I'm [Elias Häußler][WEB], web developer from Berlin
+Hi 👋, I'm [Elias Häußler][WEB], web developer from Münster (Germany)
 with a focus on PHP development, especially for the [TYPO3 CMS][TYPO3].
 I love open source, which is why you can find most of my current projects on my profile.
 In case you like my work and find it worthy of support, I am always happy about a
