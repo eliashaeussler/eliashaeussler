@@ -6,8 +6,8 @@ I love open source, which is why you can find most of my current projects on my 
 In case you like my work and find it worthy of support, I am always happy about a
 [sponsorship][SPONSOR]. Thanks!
 
-If you want to contact me, feel free to reach out on [X][X] or [Mastodon][MASTODON]
-or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
+If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] or
+[Mastodon][MASTODON] or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 
 ---
 
