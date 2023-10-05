@@ -6,7 +6,7 @@ I love open source, which is why you can find most of my current projects on my 
 In case you like my work and find it worthy of support, I am always happy about a
 [sponsorship][SPONSOR]. Thanks!
 
-If you want to contact me, feel free to reach out on [Twitter][TWITTER] or [Mastodon][MASTODON]
+If you want to contact me, feel free to reach out on [X][X] or [Mastodon][MASTODON]
 or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 
 ---
@@ -58,9 +58,9 @@ or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 [REPOS_TYPO3]: https://github.com/eliashaeussler?tab=repositories&q=topic%3Atypo3
 [SPONSOR]: https://github.com/sponsors/eliashaeussler
 [SSE]: https://github.com/eliashaeussler/sse
-[TWITTER]: https://haeussler.dev/twitter
 [TYPO3]: https://github.com/typo3/typo3
 [TYPO3_BADGES]: https://github.com/eliashaeussler/typo3-badges
 [UPDATE_CHECK]: https://github.com/eliashaeussler/composer-update-check
 [UPDATE_REPORTER]: https://github.com/eliashaeussler/composer-update-reporter
 [WEB]: https://haeussler.dev
+[X]: https://haeussler.dev/x
