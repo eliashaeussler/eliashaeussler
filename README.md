@@ -17,6 +17,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 
 * [`EXT:form_consent`][EXT_FORM_CONSENT] – _Adds double opt-in functionality to EXT:form._
 * [`EXT:sitemap_locator`][EXT_SITEMAP_LOCATOR] – _Locates XML sitemaps as part of a configured site._
+* [`EXT:sitemap_robots`][EXT_SITEMAP_ROBOTS] – _Injects XML sitemaps into `robots.txt` of a configured site._
 * [`EXT:solver`][EXT_SOLVER] – _Extends TYPO3's exception handling with AI generated solutions._
 * [`EXT:warming`][EXT_WARMING] – _Warms up Frontend caches based on an XML sitemap._
 
@@ -49,6 +50,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 [CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
 [EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
 [EXT_SITEMAP_LOCATOR]: https://github.com/eliashaeussler/typo3-sitemap-locator
+[EXT_SITEMAP_ROBOTS]: https://github.com/eliashaeussler/typo3-sitemap-robots
 [EXT_SOLVER]: https://github.com/eliashaeussler/typo3-solver
 [EXT_WARMING]: https://github.com/eliashaeussler/typo3-warming
 [FAH]: https://github.com/CPS-IT/frontend-asset-handler
