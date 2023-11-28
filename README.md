@@ -25,7 +25,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 
 * [`eliashaeussler/typo3-codeception-helper`][CODECEPTION_HELPER] – _Provides helper functions for Codeception tests._
 
-**Services**
+**Projects**
 
 * [TYPO3 Badges][TYPO3_BADGES] – _API with JSON and SVG endpoints for beautiful TYPO3 badges._
 
