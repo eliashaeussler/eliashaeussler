@@ -16,6 +16,9 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 **Extensions**
 
 * [`EXT:form_consent`][EXT_FORM_CONSENT] – _Adds double opt-in functionality to EXT:form._
+* [`EXT:handlebars`][EXT_HANDLEBARS] – _Provides an entire rendering environment for Handlebars templates._
+* [`EXT:mailqueue`][EXT_MAILQUEUE] – _Improves TYPO3's mail spooler with additional components._
+* [`EXT:personio_jobs`][EXT_PERSONIO_JOBS] – _Integrates jobs from Personio Recruiting API._
 * [`EXT:sitemap_locator`][EXT_SITEMAP_LOCATOR] – _Locates XML sitemaps as part of a configured site._
 * [`EXT:sitemap_robots`][EXT_SITEMAP_ROBOTS] – _Injects XML sitemaps into `robots.txt` of a configured site._
 * [`EXT:solver`][EXT_SOLVER] – _Extends TYPO3's exception handling with AI generated solutions._
@@ -49,6 +52,9 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 [CODECEPTION_HELPER]: https://github.com/eliashaeussler/typo3-codeception-helper
 [CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
 [EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
+[EXT_HANDLEBARS]: https://github.com/CPS-IT/handlebars
+[EXT_MAILQUEUE]: https://github.com/CPS-IT/mailqueue
+[EXT_PERSONIO_JOBS]: https://github.com/CPS-IT/personio-jobs
 [EXT_SITEMAP_LOCATOR]: https://github.com/eliashaeussler/typo3-sitemap-locator
 [EXT_SITEMAP_ROBOTS]: https://github.com/eliashaeussler/typo3-sitemap-robots
 [EXT_SOLVER]: https://github.com/eliashaeussler/typo3-solver
