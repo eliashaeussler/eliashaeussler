@@ -15,6 +15,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 
 **Extensions**
 
+* [`EXT:cache_bags`][EXT_CACHE_BAGS] – _Builds and registers cache bags for enhanced cache control._
 * [`EXT:form_consent`][EXT_FORM_CONSENT] – _Adds double opt-in functionality to EXT:form._
 * [`EXT:handlebars`][EXT_HANDLEBARS] – _Provides an entire rendering environment for Handlebars templates._
 * [`EXT:mailqueue`][EXT_MAILQUEUE] – _Improves TYPO3's mail spooler with additional components._
@@ -52,6 +53,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 [CACHE_WARMUP]: https://github.com/eliashaeussler/cache-warmup
 [CODECEPTION_HELPER]: https://github.com/eliashaeussler/typo3-codeception-helper
 [CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
+[EXT_CACHE_BAGS]: https://github.com/CPS-IT/cache-bags
 [EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
 [EXT_HANDLEBARS]: https://github.com/CPS-IT/handlebars
 [EXT_MAILQUEUE]: https://github.com/CPS-IT/mailqueue
