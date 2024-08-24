@@ -44,6 +44,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 * [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
 * [`eliashaeussler/composer-update-reporter`][UPDATE_REPORTER] – _Automatically reports outdated packages to various external services._
 * [`eliashaeussler/cpanel-requests`][CPANEL_REQUESTS] – _Allows to make API requests to your cPanel installation._
+* [`eliashaeussler/phpunit-attributes`][PHPUNIT_ATTRIBUTES] – _Provides additional attributes for tests with PHPUnit._
 * [`eliashaeussler/sse`][SSE] – _Provides a server implementation of Server-Sent Events._
 * [`eliashaeussler/transient-logger`][LOGGER] – _PSR-3 compliant logger to store logs in memory, especially useful for testing._
 * [`eliashaeussler/valinor-xml`][VALINOR_XML] – _Provides an XML source for `cuyz/valinor`._
@@ -68,6 +69,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 [MAIL]: https://haeussler.dev/mail
 [MASTODON]: https://haeussler.dev/mastodon
 [MIGRATOR]: https://github.com/CPS-IT/migrator
+[PHPUNIT_ATTRIBUTES]: https://github.com/eliashaeussler/phpunit-attributes
 [PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
 [REPOS_PHP]: https://github.com/eliashaeussler?tab=repositories&q=-topic%3Atypo3&language=php&type=source
 [REPOS_TYPO3]: https://github.com/eliashaeussler?tab=repositories&q=topic%3Atypo3
