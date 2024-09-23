@@ -48,6 +48,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 * [`eliashaeussler/sse`][SSE] – _Provides a server implementation of Server-Sent Events._
 * [`eliashaeussler/transient-logger`][LOGGER] – _PSR-3 compliant logger to store logs in memory, especially useful for testing._
 * [`eliashaeussler/valinor-xml`][VALINOR_XML] – _Provides an XML source for `cuyz/valinor`._
+* [`eliashaeussler/version-bumper`][VERSION_BUMPER] – _Bumps project versions during release preparations._
 
 
 
@@ -80,5 +81,6 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 [UPDATE_CHECK]: https://github.com/eliashaeussler/composer-update-check
 [UPDATE_REPORTER]: https://github.com/eliashaeussler/composer-update-reporter
 [VALINOR_XML]: https://github.com/eliashaeussler/valinor-xml
+[VERSION_BUMPER]: https://github.com/eliashaeussler/version-bumper
 [WEB]: https://haeussler.dev
 [X]: https://haeussler.dev/x
