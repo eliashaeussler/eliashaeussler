@@ -44,6 +44,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 * [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
 * [`eliashaeussler/composer-update-reporter`][UPDATE_REPORTER] – _Automatically reports outdated packages to various external services._
 * [`eliashaeussler/cpanel-requests`][CPANEL_REQUESTS] – _Allows to make API requests to your cPanel installation._
+* [`eliashaeussler/gitattributes`][GITATTRIBUTES] – _Provides object-oriented `.gitattributes` file handling._
 * [`eliashaeussler/phpunit-attributes`][PHPUNIT_ATTRIBUTES] – _Provides additional attributes for tests with PHPUnit._
 * [`eliashaeussler/sse`][SSE] – _Provides a server implementation of Server-Sent Events._
 * [`eliashaeussler/transient-logger`][LOGGER] – _PSR-3 compliant logger to store logs in memory, especially useful for testing._
@@ -65,6 +66,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 [EXT_SOLVER]: https://github.com/eliashaeussler/typo3-solver
 [EXT_WARMING]: https://github.com/eliashaeussler/typo3-warming
 [FAH]: https://github.com/CPS-IT/frontend-asset-handler
+[GITATTRIBUTES]: https://github.com/eliashaeussler/gitattributes
 [GPG]: https://haeussler.dev/gpg
 [LOGGER]: https://github.com/eliashaeussler/transient-logger
 [MAIL]: https://haeussler.dev/mail
