@@ -39,6 +39,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 
 * [`cpsit/frontend-asset-handler`][FAH] – _Downloads and extracts Frontend assets in Composer projects._
 * [`cpsit/migrator`][MIGRATOR] – _Performs migrations of files using three-way merge._
+* [`cpsit/monitoring`][MONITORING] _– Generic monitoring solution for web applications._
 * [`cpsit/project-builder`][PROJECT_BUILDER] – _Creates new projects from various template repositories._
 * [`eliashaeussler/cache-warmup`][CACHE_WARMUP] – _Warms up caches of pages located in XML sitemaps._
 * [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
@@ -72,6 +73,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 [MAIL]: https://haeussler.dev/mail
 [MASTODON]: https://haeussler.dev/mastodon
 [MIGRATOR]: https://github.com/CPS-IT/migrator
+[MONITORING]: https://github.com/CPS-IT/monitoring
 [PHPUNIT_ATTRIBUTES]: https://github.com/eliashaeussler/phpunit-attributes
 [PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
 [REPOS_PHP]: https://github.com/eliashaeussler?tab=repositories&q=-topic%3Atypo3&language=php&type=source
