@@ -6,7 +6,7 @@ I love open source, which is why you can find most of my current projects on my 
 In case you like my work and find it worthy of support, I am always happy about a
 [sponsorship][SPONSOR]. Thanks!
 
-If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] or
+If you want to contact me, feel free to reach out on [Bluesky][BLUESKY] or
 [Mastodon][MASTODON] or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
 
 ---
@@ -54,6 +54,7 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 
 
 
+[BLUESKY]: https://haeussler.dev/bluesky
 [CACHE_WARMUP]: https://github.com/eliashaeussler/cache-warmup
 [CODECEPTION_HELPER]: https://github.com/eliashaeussler/typo3-codeception-helper
 [CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
@@ -87,4 +88,3 @@ If you want to contact me, feel free to reach out on [X (formerly Twitter)][X] o
 [VALINOR_XML]: https://github.com/eliashaeussler/valinor-xml
 [VERSION_BUMPER]: https://github.com/eliashaeussler/version-bumper
 [WEB]: https://haeussler.dev
-[X]: https://haeussler.dev/x
