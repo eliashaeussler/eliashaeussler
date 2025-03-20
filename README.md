@@ -1,13 +1,17 @@
 [![Elias Haeussler, web developer from Münster (Germany)](img/header-main.png)][WEB]
 
-Hi 👋, I'm [Elias Häußler][WEB], web developer from Münster (Germany)
-with a focus on PHP development, especially for the [TYPO3 CMS][TYPO3].
-I love open source, which is why you can find most of my current projects on my profile.
-In case you like my work and find it worthy of support, I am always happy about a
-[sponsorship][SPONSOR]. Thanks!
+Hi 👋, I'm [Elias Häußler][WEB], 👨‍💻 web developer from 🇩🇪 Münster with a focus on
+🐘 PHP development, especially for the [🧡 TYPO3 CMS][TYPO3]. I'm also interested in
+🥷 cybersecurity and began my [Cyber & IT security (M.Sc.)][CITS] studies back in 2024.
 
-If you want to contact me, feel free to reach out on [Bluesky][BLUESKY] or
-[Mastodon][MASTODON] or send me an [email][MAIL] ([GPG encrypted][GPG] if you like).
+I ❤️ open source, which is why you can find most of my current projects on my profile.
+If you're interested, you may also check out some of my [✍️ cybersecurity course
+materials and exam papers][CITS_COURSES].
+
+In case you like my work and find it worthy of support, I am always happy about a
+[💰 sponsorship][SPONSOR]. If you want to contact me, feel free to reach out on
+[🦋 Bluesky][BLUESKY] or [🐘 Mastodon][MASTODON], or send me an [✉️ email][MAIL]
+([🔑 GPG encrypted][GPG], if you prefer). Thank you for your support!
 
 ---
 
@@ -56,6 +60,8 @@ If you want to contact me, feel free to reach out on [Bluesky][BLUESKY] or
 
 [BLUESKY]: https://haeussler.dev/bluesky
 [CACHE_WARMUP]: https://github.com/eliashaeussler/cache-warmup
+[CITS]: https://dbuas.de/master/cyber-it-security-master/
+[CITS_COURSES]: https://github.com/eliashaeussler/cits-courses
 [CODECEPTION_HELPER]: https://github.com/eliashaeussler/typo3-codeception-helper
 [CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
 [EXT_CACHE_BAGS]: https://github.com/CPS-IT/cache-bags
