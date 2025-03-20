@@ -11,7 +11,7 @@ materials and exam papers][CITS_COURSES].
 In case you like my work and find it worthy of support, I am always happy about a
 [💰 sponsorship][SPONSOR]. If you want to contact me, feel free to reach out on
 [🦋 Bluesky][BLUESKY] or [🐘 Mastodon][MASTODON], or send me an [✉️ email][MAIL]
-([🔑 GPG encrypted][GPG], if you prefer). Thank you for your support!
+([🔑 GPG encrypted][GPG], if you prefer).
 
 ---
 
