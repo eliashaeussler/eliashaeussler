@@ -1,17 +1,17 @@
 [![Elias Haeussler, web developer from Münster (Germany)](img/header-main.png)][WEB]
 
-Hi 👋, I'm [Elias Häußler][WEB], 👨‍💻 web developer from 🇩🇪 Münster with a focus on
-🐘 PHP development, especially for the [🧡 TYPO3 CMS][TYPO3]. I'm also interested in
-🥷 cybersecurity and began my [Cyber & IT security (M.Sc.)][CITS] studies back in 2024.
+Hi 👋, I'm [Elias Häußler][WEB], 👨‍💻&nbsp;web developer from 🇩🇪 Münster with a focus on
+🐘&nbsp;PHP development, especially for the [🧡&nbsp;TYPO3 CMS][TYPO3]. I'm also interested
+in 🥷&nbsp;cybersecurity and began my [Cyber & IT security (M.Sc.)][CITS] studies back in 2024.
 
 I ❤️ open source, which is why you can find most of my current projects on my profile.
-If you're interested, you may also check out some of my [✍️ cybersecurity course
+If you're interested, you may also check out some of my [✍️&nbsp;cybersecurity course
 materials and exam papers][CITS_COURSES].
 
 In case you like my work and find it worthy of support, I am always happy about a
-[💰 sponsorship][SPONSOR]. If you want to contact me, feel free to reach out on
-[🦋 Bluesky][BLUESKY] or [🐘 Mastodon][MASTODON], or send me an [✉️ email][MAIL]
-([🔑 GPG encrypted][GPG], if you prefer).
+[💰&nbsp;sponsorship][SPONSOR]. If you want to contact me, feel free to reach out on
+[🦋&nbsp;Bluesky][BLUESKY] or [🐘&nbsp;Mastodon][MASTODON], or send me an
+[✉️&nbsp;email][MAIL] ([🔑&nbsp;GPG encrypted][GPG], if you prefer).
 
 ---
 
