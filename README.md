@@ -32,6 +32,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 **Libraries**
 
 * [`eliashaeussler/typo3-codeception-helper`][CODECEPTION_HELPER] – _Provides helper functions for Codeception tests._
+* [`eliashaeussler/typo3-config-objects`][CONFIG_OBJECTS] – _Provides value objects for strictly typed TYPO3 configuration._
 
 **Projects**
 
@@ -63,6 +64,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 [CITS]: https://dbuas.de/master/cyber-it-security-master/
 [CITS_COURSES]: https://github.com/eliashaeussler/cits-courses
 [CODECEPTION_HELPER]: https://github.com/eliashaeussler/typo3-codeception-helper
+[CONFIG_OBJECTS]: https://github.com/eliashaeussler/typo3-config-objects
 [CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
 [EXT_CACHE_BAGS]: https://github.com/CPS-IT/cache-bags
 [EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
