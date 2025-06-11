@@ -5,8 +5,8 @@ Hi 👋, I'm [Elias Häußler][WEB], 👨‍💻&nbsp;web developer from 🇩�
 in 🥷&nbsp;cybersecurity and began my [Cyber & IT security (M.Sc.)][CITS] studies back in 2024.
 
 I ❤️ open source, which is why you can find most of my current projects on my profile.
-If you're interested, you may also check out some of my [✍️&nbsp;cybersecurity course
-materials and exam papers][CITS_COURSES].
+If you're interested, you may also check out some of my cybersecurity [✍️&nbsp;course
+materials][CITS_COURSES] and exam papers.
 
 In case you like my work and find it worthy of support, I am always happy about a
 [💰&nbsp;sponsorship][SPONSOR]. If you want to contact me, feel free to reach out on
