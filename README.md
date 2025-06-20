@@ -33,6 +33,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 
 * [`eliashaeussler/typo3-codeception-helper`][CODECEPTION_HELPER] – _Provides helper functions for Codeception tests._
 * [`eliashaeussler/typo3-config-objects`][CONFIG_OBJECTS] – _Provides value objects for strictly typed TYPO3 configuration._
+* [`eliashaeussler/typo3-vendor-bundler`][TYPO3_VENDOR_BUNDLER] – _Bundles vendor libraries for TYPO3 extensions in classic mode._
 
 **Projects**
 
@@ -91,6 +92,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 [SSE]: https://github.com/eliashaeussler/sse
 [TYPO3]: https://github.com/typo3/typo3
 [TYPO3_BADGES]: https://github.com/eliashaeussler/typo3-badges
+[TYPO3_VENDOR_BUNDLER]: https://github.com/eliashaeussler/typo3-vendor-bundler
 [UPDATE_CHECK]: https://github.com/eliashaeussler/composer-update-check
 [UPDATE_REPORTER]: https://github.com/eliashaeussler/composer-update-reporter
 [VALINOR_XML]: https://github.com/eliashaeussler/valinor-xml
