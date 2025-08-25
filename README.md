@@ -51,6 +51,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 * [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
 * [`eliashaeussler/composer-update-reporter`][UPDATE_REPORTER] – _Automatically reports outdated packages to various external services._
 * [`eliashaeussler/cpanel-requests`][CPANEL_REQUESTS] – _Allows to make API requests to your cPanel installation._
+* [`eliashaeussler/deep-closure-comparator`][DEEP_CLOSURE_COMPARATOR] – _Provides a PHPUnit comparator to assert equality of closures._
 * [`eliashaeussler/gitattributes`][GITATTRIBUTES] – _Provides object-oriented `.gitattributes` file handling._
 * [`eliashaeussler/phpunit-attributes`][PHPUNIT_ATTRIBUTES] – _Provides additional attributes for tests with PHPUnit._
 * [`eliashaeussler/sse`][SSE] – _Provides a server implementation of Server-Sent Events._
@@ -67,6 +68,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 [CODECEPTION_HELPER]: https://github.com/eliashaeussler/typo3-codeception-helper
 [CONFIG_OBJECTS]: https://github.com/eliashaeussler/typo3-config-objects
 [CPANEL_REQUESTS]: https://github.com/eliashaeussler/cpanel-requests
+[DEEP_CLOSURE_COMPARATOR]: https://github.com/eliashaeussler/deep-closure-comparator
 [EXT_CACHE_BAGS]: https://github.com/CPS-IT/cache-bags
 [EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
 [EXT_HANDLEBARS]: https://github.com/CPS-IT/handlebars
