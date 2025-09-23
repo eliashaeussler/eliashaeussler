@@ -49,7 +49,6 @@ In case you like my work and find it worthy of support, I am always happy about 
 * [`cpsit/project-builder`][PROJECT_BUILDER] – _Creates new projects from various template repositories._
 * [`eliashaeussler/cache-warmup`][CACHE_WARMUP] – _Warms up caches of pages located in XML sitemaps._
 * [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
-* [`eliashaeussler/composer-update-reporter`][UPDATE_REPORTER] – _Automatically reports outdated packages to various external services._
 * [`eliashaeussler/deep-closure-comparator`][DEEP_CLOSURE_COMPARATOR] – _Provides a PHPUnit comparator to assert equality of closures._
 * [`eliashaeussler/gitattributes`][GITATTRIBUTES] – _Provides object-oriented `.gitattributes` file handling._
 * [`eliashaeussler/phpunit-attributes`][PHPUNIT_ATTRIBUTES] – _Provides additional attributes for tests with PHPUnit._
@@ -94,7 +93,6 @@ In case you like my work and find it worthy of support, I am always happy about 
 [TYPO3_BADGES]: https://github.com/eliashaeussler/typo3-badges
 [TYPO3_VENDOR_BUNDLER]: https://github.com/eliashaeussler/typo3-vendor-bundler
 [UPDATE_CHECK]: https://github.com/eliashaeussler/composer-update-check
-[UPDATE_REPORTER]: https://github.com/eliashaeussler/composer-update-reporter
 [VALINOR_XML]: https://github.com/eliashaeussler/valinor-xml
 [VERSION_BUMPER]: https://github.com/eliashaeussler/version-bumper
 [WEB]: https://haeussler.dev
