@@ -53,6 +53,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 * [`eliashaeussler/gitattributes`][GITATTRIBUTES] – _Provides object-oriented `.gitattributes` file handling._
 * [`eliashaeussler/phpunit-attributes`][PHPUNIT_ATTRIBUTES] – _Provides additional attributes for tests with PHPUnit._
 * [`eliashaeussler/sse`][SSE] – _Provides a server implementation of Server-Sent Events._
+* [`eliashaeussler/task-runner`][TASK_RUNNER] – _Provides a progress helper for long-running CLI tasks, based on Symfony Console._
 * [`eliashaeussler/transient-logger`][LOGGER] – _PSR-3 compliant logger to store logs in memory, especially useful for testing._
 * [`eliashaeussler/valinor-xml`][VALINOR_XML] – _Provides an XML source for `cuyz/valinor`._
 * [`eliashaeussler/version-bumper`][VERSION_BUMPER] – _Bumps project versions during release preparations._
@@ -89,6 +90,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 [REPOS_TYPO3]: https://github.com/eliashaeussler?tab=repositories&q=topic%3Atypo3
 [SPONSOR]: https://github.com/sponsors/eliashaeussler
 [SSE]: https://github.com/eliashaeussler/sse
+[TASK_RUNNER]: https://github.com/eliashaeussler/task-runner
 [TYPO3]: https://github.com/typo3/typo3
 [TYPO3_BADGES]: https://github.com/eliashaeussler/typo3-badges
 [TYPO3_VENDOR_BUNDLER]: https://github.com/eliashaeussler/typo3-vendor-bundler
