@@ -22,6 +22,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 * [`EXT:cache_bags`][EXT_CACHE_BAGS] – _Builds and registers cache bags for enhanced cache control._
 * [`EXT:form_consent`][EXT_FORM_CONSENT] – _Adds double opt-in functionality to EXT:form._
 * [`EXT:handlebars`][EXT_HANDLEBARS] – _Provides an entire rendering environment for Handlebars templates._
+* [`EXT:handlebars_forms`][EXT_HBS_FORMS] – _Extends Handlebars rendering to forms built with EXT:form._
 * [`EXT:mailqueue`][EXT_MAILQUEUE] – _Improves TYPO3's mail spooler with additional components._
 * [`EXT:personio_jobs`][EXT_PERSONIO_JOBS] – _Integrates jobs from Personio Recruiting API._
 * [`EXT:sitemap_locator`][EXT_SITEMAP_LOCATOR] – _Locates XML sitemaps as part of a configured site._
@@ -70,6 +71,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 [EXT_CACHE_BAGS]: https://github.com/CPS-IT/cache-bags
 [EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
 [EXT_HANDLEBARS]: https://github.com/CPS-IT/handlebars
+[EXT_HBS_FORMS]: https://github.com/CPS-IT/handlebars-forms
 [EXT_MAILQUEUE]: https://github.com/CPS-IT/mailqueue
 [EXT_PERSONIO_JOBS]: https://github.com/CPS-IT/personio-jobs
 [EXT_SITEMAP_LOCATOR]: https://github.com/eliashaeussler/typo3-sitemap-locator
