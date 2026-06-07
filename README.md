@@ -50,7 +50,6 @@ In case you like my work and find it worthy of support, I am always happy about 
 * [`cpsit/project-builder`][PROJECT_BUILDER] – _Creates new projects from various template repositories._
 * [`eliashaeussler/cache-warmup`][CACHE_WARMUP] – _Warms up caches of pages located in XML sitemaps._
 * [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
-* [`eliashaeussler/deep-closure-comparator`][DEEP_CLOSURE_COMPARATOR] – _Provides a PHPUnit comparator to assert equality of closures._
 * [`eliashaeussler/gitattributes`][GITATTRIBUTES] – _Provides object-oriented `.gitattributes` file handling._
 * [`eliashaeussler/phpunit-attributes`][PHPUNIT_ATTRIBUTES] – _Provides additional attributes for tests with PHPUnit._
 * [`eliashaeussler/sse`][SSE] – _Provides a server implementation of Server-Sent Events._
@@ -67,7 +66,6 @@ In case you like my work and find it worthy of support, I am always happy about 
 [CITS_COURSES]: https://github.com/eliashaeussler/cits-courses
 [CODECEPTION_HELPER]: https://github.com/eliashaeussler/typo3-codeception-helper
 [CONFIG_OBJECTS]: https://github.com/eliashaeussler/typo3-config-objects
-[DEEP_CLOSURE_COMPARATOR]: https://github.com/eliashaeussler/deep-closure-comparator
 [EXT_CACHE_BAGS]: https://github.com/CPS-IT/cache-bags
 [EXT_FORM_CONSENT]: https://github.com/eliashaeussler/typo3-form-consent
 [EXT_HANDLEBARS]: https://github.com/CPS-IT/handlebars
