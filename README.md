@@ -52,6 +52,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 * [`eliashaeussler/composer-update-check`][UPDATE_CHECK] – _Detects outdated dependencies in your `composer.lock`._
 * [`eliashaeussler/gitattributes`][GITATTRIBUTES] – _Provides object-oriented `.gitattributes` file handling._
 * [`eliashaeussler/phpunit-attributes`][PHPUNIT_ATTRIBUTES] – _Provides additional attributes for tests with PHPUnit._
+* [`eliashaeussler/scope-profiler`][SCOPE_PROFILER] – _Measures duration, memory usage and memory peak of various scoped actions._
 * [`eliashaeussler/sse`][SSE] – _Provides a server implementation of Server-Sent Events._
 * [`eliashaeussler/task-runner`][TASK_RUNNER] – _Provides a progress helper for long-running CLI tasks, based on Symfony Console._
 * [`eliashaeussler/transient-logger`][LOGGER] – _PSR-3 compliant logger to store logs in memory, especially useful for testing._
@@ -88,6 +89,7 @@ In case you like my work and find it worthy of support, I am always happy about 
 [PROJECT_BUILDER]: https://github.com/CPS-IT/project-builder
 [REPOS_PHP]: https://github.com/eliashaeussler?tab=repositories&q=-topic%3Atypo3&language=php&type=source
 [REPOS_TYPO3]: https://github.com/eliashaeussler?tab=repositories&q=topic%3Atypo3
+[SCOPE_PROFILER]: https://github.com/eliashaeussler/scope-profiler
 [SPONSOR]: https://github.com/sponsors/eliashaeussler
 [SSE]: https://github.com/eliashaeussler/sse
 [TASK_RUNNER]: https://github.com/eliashaeussler/task-runner
